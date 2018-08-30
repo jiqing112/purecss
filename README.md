@@ -1,5 +1,5 @@
 上传一个purecss编译后的版本，可以直接通过link标签引入的  
-详细使用和文档请看build文件夹
+详细使用和文档请看[build文件夹](https://github.com/jiqing112/purecss/tree/master/build)
 我这里给出一个七牛的链接，但是不保证随时可用(偷偷薅的别人的羊毛)
 ## pure-min.css  
 ~~~
