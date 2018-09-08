@@ -12,7 +12,7 @@
 ~~~
 [查看pure.css是否有效](https://o05g5zevc.qnssl.com/5c571447-1279-4801-a9cc-b55a89d3a5f0/pure.css)
   
-  自建mdui的引用链接(依旧是蹭别人的)  
+  自建[mdui](https://www.mdui.org)的引用链接(依旧是蹭别人的)  
   压缩过的js和css  
   ~~~
   <link rel="stylesheet" href="https://o05g5zevc.qnssl.com/569b970f-25d4-4f26-9409-2b250a714f6c/mdui.min.css">  
@@ -20,7 +20,7 @@
 ~~~
 未压缩过的js和css
 ~~~
-  <link rel="stylesheet" href="https://o05g5zevc.qnssl.com/f07dff3d-1d4d-4388-b15e-445121e81d56/mdui.css">   
+<link rel="stylesheet" href="https://o05g5zevc.qnssl.com/f07dff3d-1d4d-4388-b15e-445121e81d56/mdui.css">   
 <script src="https://o05g5zevc.qnssl.com/8ff14f74-2209-4834-b317-a640c7c53b82/mdui.js"></script>
 ~~~
 
